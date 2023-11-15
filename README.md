@@ -13,6 +13,7 @@ As a dedicated Consultant I strive to find the best solution that balances user 
 <p align="left">
   <b>Epiq Consulting ApS</b>
   <br/>
-<img src="https://komarev.com/ghpvc/?username=rubabepiq&label=Profile%20views&color=0e75b6&style=flat" alt="rubabepiq"/> <img src="http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/rubabepiq" alt="rubabepiq" />
+<img src="https://komarev.com/ghpvc/?username=rubabepiq&label=Profile%20views&color=0e75b6&style=flat" alt="rubabepiq"/> 
+  <img src="http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/rubabepiq" alt="rubabepiq" />
 
 </p>
